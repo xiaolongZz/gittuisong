@@ -1,9 +1,4 @@
 aaaaaaaaaaaa
-
-cccccccccc
-bbbbb
-
-
-bbbbb
-ddddddddd
-
+bbbbbbbbbbb
+cccccccccccccc
+ddddddddddd
